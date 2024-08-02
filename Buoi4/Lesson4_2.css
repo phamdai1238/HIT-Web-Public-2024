@@ -1,0 +1,73 @@
+body {
+    margin: 60px 90px 0 90px;
+    font-family: "Inconsolata", monospace;
+    font-weight: bold;
+    color: black;
+}
+
+.menu,
+.choice {
+    display: flex;
+    justify-content: space-between;
+    font-size: 30px;
+}
+
+.menu-text {
+    padding-bottom: 100px;
+}
+
+.choice-text-1 {
+    font-size: 35px;
+    padding-bottom: 10px;
+}
+
+.choice-text-2,
+.choice-item {
+    font-size: 17px;
+}
+
+.choice-item {
+    display: flex;
+    gap: 30px;
+    padding-top: 20px;
+}
+
+.body {
+    padding-top: 50px;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 25px;
+}
+
+img {
+    width: 415px;
+    height: 415px;
+}
+
+.text {
+    text-align: center;
+}
+
+.text-1 {
+    font-size: 30px;
+    padding-top: 180px;
+    padding-bottom: 15px;
+}
+
+.text-2 {
+    font-size: 17px;
+    padding: 0 300px 0 300px;
+    line-height: 25px;
+}
+
+.logo {
+    padding: 50px 0 50px 0;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 25px;
+}
+
+.brand {
+    width: 195px;
+    height: 87px;
+}
